@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Sudhi Krishna N A.
+# 👋 Hi, I’m Sudhi Krishna N A
 - 👀 I’m interested in web development, DSA, machine learning.
 - 🌱 I’m currently learning web development.
 - 💞️ I’m looking to collaborate on web development, documentation, DSA.
