@@ -1,7 +1,5 @@
 # 👋 Hi, I’m Sudhi Krishna N A
-- 👀 I’m interested in full stack web development, DSA.
-- 🌱 I’m currently learning full stack web development, Python, Docker, DSA.
-- 💞️ I’m looking to collaborate on web development, documentation, DSA.
+- B.Tech Computer Science and Engineering (2020-2024)
 - 📫 How to reach me : Twitter ID: @SudhiKrishnaNA1.
 
 <!---
